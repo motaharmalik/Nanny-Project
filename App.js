@@ -13,6 +13,7 @@ export default function App() {
       </view>
       
     </View> 
+    //I love Syed
   );
 }
 
