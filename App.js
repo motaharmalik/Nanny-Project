@@ -13,12 +13,12 @@ export default function App() {
       </view>
       
     </View> 
-    //I love Syed
+    //I love Omer
   );
 }
 
 
-const styles = StyleSheet.create({
+const styles = StyleSheet.create(
   
 });
 
